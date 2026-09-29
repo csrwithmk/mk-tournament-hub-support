@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "id": "test-simple-once",
+    "message": "This is a simple test notice. It should show once, then never again on this device.",
+    "type": "info",
+    "once": true
+  },
+  {
+    "id": "test-with-link",
+    "message": "This notice has a plain OK button and a link. Tapping OK closes it without visiting the link.",
+    "title": "Check This Out",
+    "url": "https://youtube.com/@csrwithmk",
+    "urlLabel": "Watch Video",
+    "vibrate": true
+  },
+  {
+    "id": "test-force-ack",
+    "message": "This is a FORCE-ACK notice - it can only be closed by tapping the link button below. Back button won't close it, and there's no separate OK.",
+    "title": "Important",
+    "type": "critical",
+    "url": "https://wa.me/923423210311",
+    "urlLabel": "Message Us",
+    "forceAck": true
+  },
+  {
+    "id": "test-inbox-expiry",
+    "message": "After you tap OK, this one goes to your Notification Center inbox - but it will auto-delete from there after just 1 day (for testing).",
+    "type": "warning",
+    "inboxExpiresAfterDays": 1
+  }
+][]
