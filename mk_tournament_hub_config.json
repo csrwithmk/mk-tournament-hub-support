@@ -20,7 +20,7 @@
     "type": "critical",
     "url": "https://wa.me/923423210311",
     "urlLabel": "Message Us",
-    "forceAck": true
+    "forceAck": false
   },
   {
     "id": "test-inbox-expiry",
