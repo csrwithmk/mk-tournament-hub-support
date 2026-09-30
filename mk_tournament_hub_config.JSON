@@ -1,7 +1,7 @@
-[
-  {
-    "id": "test-2026-09-30-001",
-    "message": "Assalam-o-Alaikum! Yeh test notification hai. Agar yeh nazar aa raha hai to system bilkul theek kaam kar raha hai.",
-    "once": true
+{
+    "id": "notice-20260930-144541",
+    "message": "Hi how are you.",
+    "title": "Warning info. ",
+    "once": true,
+    "silent": true
   }
-]
