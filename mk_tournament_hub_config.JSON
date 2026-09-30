@@ -1,1 +1,15 @@
-[]
+{
+  "id": "notice-001",
+  "title": "Yeh Title Hai (Optional)",
+  "message": "Yeh asal message hai. Yahan apna text likhein jo user ko dikhana hai.",
+  "type": "info",
+  "url": "https://youtube.com/@csrwithmk",
+  "urlLabel": "Video Dekhein",
+  "once": false,
+  "forceAck": false,
+  "vibrate": false,
+  "inboxExpiresAfterDays": 7,
+  "startDate": "2026-01-01T00:00:00Z",
+  "endDate": "2026-12-31T23:59:59Z",
+  "actionButton": "OK"
+}
