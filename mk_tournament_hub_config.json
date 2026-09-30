@@ -1,11 +1,10 @@
 {
-  "id": "notice-20260930-160819",
-  "message": "Checking purpose ke liye notification diya ja raha hai..",
-  "once": true,
-  "forceAck": true,
-  "vibrate": true,
-  "url": "https://chat.whatsapp.com/IlwxaBAm0NO59CgDwjwnaw",
-  "urlLabel": "WhatsApp community..",
-  "url2": "www.youtube.com/@commentaryscreenreader",
-  "url2Label": "YouTube channel.."
-}
+    "id": "notice-20260930-220715",
+    "message": "Hi how are you.",
+    "once": true,
+    "forceAck": true,
+    "url": "https://chat.whatsapp.com/IlwxaBAm0NO59CgDwjwnaw ",
+    "urlLabel": "WhatsApp community.. ",
+    "url2": "www.youtube.com/@commentaryscreenreader ",
+    "url2Label": "YouTube channel periods symbol. "
+  }
