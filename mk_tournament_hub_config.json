@@ -1,7 +1,9 @@
-{
-    "id": "notice-20260930-1445411",
-    "message": "I Love you.",
-    "title": "Warning info. ",
+[
+  {
+    "id": "notice-120260930-144541",
+    "message": "I love you..",
+    "title": "Warning info.",
     "once": true,
     "silent": true
   }
+]
